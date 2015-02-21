@@ -9,4 +9,4 @@ To run:
 
 		$ docker run -v $(pwd)/audio:/audio luis/echoprint-codegen 
 
-echoprint-codegen is released under the MIT License. The source included here has been cloned from https://github.com/echonest/echoprint-codegen
+echoprint-codegen is released under the MIT License. This image is licensed under the MIT License too.
